@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OledbTeste")]
+[assembly: AssemblyTitle("AcessoBD_Dicas")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OledbTeste")]
+[assembly: AssemblyProduct("AcessoBD_Dicas")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("62931c45-f7ad-4283-bf51-7ace74783ad6")]
+[assembly: Guid("655b427f-21b2-43f4-aa49-97118cea20c4")]
 
 // Version information for an assembly consists of the following four values:
 //
