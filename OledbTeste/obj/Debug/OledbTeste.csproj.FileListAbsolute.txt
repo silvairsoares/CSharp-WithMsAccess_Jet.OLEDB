@@ -1,0 +1,10 @@
+c:\_cshp\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.exe.config
+c:\_cshp\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.exe
+c:\_cshp\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.pdb
+c:\_cshp\AcessoBD_Dicas\OledbTeste\obj\Debug\OledbTeste.exe
+c:\_cshp\AcessoBD_Dicas\OledbTeste\obj\Debug\OledbTeste.pdb
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.exe.config
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.exe
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\OledbTeste\bin\Debug\OledbTeste.pdb
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\OledbTeste\obj\Debug\OledbTeste.exe
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\OledbTeste\obj\Debug\OledbTeste.pdb
