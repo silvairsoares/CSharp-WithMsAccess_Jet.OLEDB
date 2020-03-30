@@ -1,0 +1,19 @@
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.exe.config
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.csprojResolveAssemblyReference.cache
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.Form1.resources
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.Properties.Resources.resources
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.csproj.GenerateResource.Cache
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.exe
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.pdb
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.exe
+c:\_cshp\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.pdb
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.exe.config
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.exe
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\AcessoBD_Dicas.pdb
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.csprojAssemblyReference.cache
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.Form1.resources
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.Properties.Resources.resources
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.csproj.GenerateResource.cache
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.exe
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\obj\Debug\AcessoBD_Dicas.pdb
+C:\Users\silvairls\Desktop\Nova pasta\AcessoBD_Dicas\AcessoBD_Dicas\AcessoBD_Dicas\bin\Debug\dados\Teste.mdb
